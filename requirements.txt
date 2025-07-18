@@ -1,6 +1,3 @@
-os.path
-glob
-cv2
+opencv-python-headless
 numpy
 torch
-RRDBNet_arch
